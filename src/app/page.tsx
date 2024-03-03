@@ -1,4 +1,4 @@
-import { CircleMenu } from '../components/CircleMenu/CircleMenu';
+import { CircleMenu } from '../components/CircleMenu';
 
 export default function Home() {
     return (

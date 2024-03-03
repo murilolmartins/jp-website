@@ -1,7 +1,7 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import { useCircle } from './hook/useCircle';
+import { useCircle } from '../hooks/useCircle';
 
 export const CircleMenu = () => {
     const pathname = usePathname();
